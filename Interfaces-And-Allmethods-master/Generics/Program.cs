@@ -18,7 +18,7 @@ namespace Generics
                 Console.WriteLine(item);
             }
 
-            List<Customer> result2 = utilities.BuildList<Customer>(new Customer {FirstName = "Emre" }, new Customer { FirstName = "Ziya" });
+            List<Customer> result2 = utilities.BuildList<Customer>(new Customer {FirstName = "can" }, new Customer { FirstName = "ziya" });
 
             foreach (var customer in result2)
             {

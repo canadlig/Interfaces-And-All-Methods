@@ -11,7 +11,7 @@ namespace Interfaces
         static void Main(string[] args)
         {
             PersonManager manager = new PersonManager();
-            manager.Add(new Costumer { Id = 1, FirstName = "Emre", LastName = "Yalnızlar", Address = "Tekirdağ" });
+            manager.Add(new Costumer { Id = 1, FirstName = "Can", LastName = "Adlığ", Address = "İstanbul" });
 
             Console.ReadLine();
         }

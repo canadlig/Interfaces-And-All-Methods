@@ -59,12 +59,12 @@ namespace Collections
             }
 
             //List<Customer> customers = new List<Customer>();
-            //customers.Add(new Customer { Id =1, FirtName = "Emre"});
+            //customers.Add(new Customer { Id =1, FirtName = "Can"});
             //customers.Add(new Customer { Id =2, FirtName = "Mehmet"});
 
             List<Customer> customers = new List<Customer>
             {
-                new Customer { Id = 1, FirtName = "Emre" },
+                new Customer { Id = 1, FirtName = "Can" },
                 new Customer { Id = 2, FirtName = "Mehmet" }
 
             };

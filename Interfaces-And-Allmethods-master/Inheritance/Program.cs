@@ -20,8 +20,8 @@ namespace Inheritance
 
             Person[] persons = new Person[3]
            {
-                new Custumer{ Name = "Emre"},
-                new Person{ Name = "Yasir"},
+                new Custumer{ Name = "Can"},
+                new Person{ Name = "Ahmet"},
                 new Student{Name = "Mert" }
            };
 
